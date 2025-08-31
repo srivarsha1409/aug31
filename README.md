@@ -112,7 +112,11 @@ This project predicts whether a mushroom is **edible** or **poisonous** based on
 It includes data preprocessing, model training (Logistic Regression, Random Forest, Gradient Boosting), model evaluation, hyperparameter tuning, and deployment with **Streamlit**.  
 
 🔗 **Live App:**https://eh65shrzifknm2m4upaycc.streamlit.app/
+
+##PREVIEW:
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9736a2e6-d756-40c6-a2b0-ff209b5d4243" />
+
 
 
 ## ✨ Future Improvements
